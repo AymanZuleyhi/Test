@@ -2,3 +2,17 @@ Exercise 1
 I need to navigate to the folder's directory and run git init
 
 Exercise 2
+git clone "reposatory url" optional name
+
+Exercise 3
+git status
+
+Exercise 4
+git branch form
+git checkout form
+
+Exercise 5
+After I've made the change, I need to run.
+git add .
+git commit -m "created a form"
+
