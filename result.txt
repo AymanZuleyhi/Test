@@ -1,0 +1,4 @@
+Exercise 1
+I need to navigate to the folder's directory and run git init
+
+Exercise 2
